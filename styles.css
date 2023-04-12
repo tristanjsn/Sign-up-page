@@ -1,0 +1,91 @@
+/* Background */
+
+.body-color {
+    background: #fff;
+}
+
+/* End of Background */
+
+/* Title Container  */
+
+.title-container {
+    border: none;
+    text-align: center;
+    margin-left: 62.5rem;
+    margin-top: 6.25rem;
+    margin-bottom: 2.5rem;
+    width: 20%;
+    background-color: #fff;
+}
+
+
+.inside-tc {
+    padding: 1rem;
+}
+
+/* End of Title Container  */
+
+/* About Container */
+
+.about-container {
+    border: none;
+    margin-left: 62.5rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    width: 20%;
+    background-color: #fff;
+}
+
+.inside-ac {
+    padding: 1rem;
+}
+
+/* End of about Container */
+
+/* Sign Up Container */
+
+.sign-up-container {
+    border: none;
+    margin-left: 62.5rem;
+    width: 20%;
+    background-color: #fff;
+    padding: 1rem 3rem;
+}
+
+.input-suc {
+    display: block;
+    width: 25rem;
+    text-align: left;
+}
+
+.label-suc {
+    display: block;
+    text-align: left;
+    padding: 0.5rem;
+}
+
+.btn-suc {
+    width: 25rem;
+    margin-top: 2rem;
+    margin-bottom: 26rem;
+}
+
+/* End of Sign Up Container */
+
+/* Sign In Container  */
+
+.signin-container {
+    border: none;
+    margin-left: 62.5rem;
+    padding-top: 1rem;
+    text-align: center;
+    width: 20%;
+    background-color: #fff;
+}
+
+.p-sic {
+    margin-bottom: 0.2rem;
+}
+
+
+/* End of Sign-In Container */
